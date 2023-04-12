@@ -30,20 +30,39 @@
 }
 
 .tabela{
-    border: 5px dotted rgb(1, 32, 11);
+    border: 5px dotted #01200b;
 }
 
 .col1{
-    border:5px dotted rgb(14, 132, 243);
+    border:5px dotted rgb(235, 164, 34);
     width: 300px;
 }
 
 .col2{
-    border:5px dotted rgb(245, 194, 27);
+    border:5px dotted rgb(11, 108, 235);
     width: 300px;
 }
 
 .col3{
-    border:5px dotted rgb(2, 110, 36);
+    border:5px dotted rgb(248, 224, 5);
     width: 300px;
+}
+
+#roda{
+    font-family: cursive;
+    text-align: center;
+}
+
+.imag{
+    width: 200px;
+    height: 200px;
+    display: inline;
+    position: relative;
+}
+/*.fundo{
+    background-image: linear-gradient(#07f051,#ffffff);
+}*/
+.texto{
+    font-size: 20px;
+    font-family: arial;
 }
